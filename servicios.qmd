@@ -17,7 +17,7 @@ title: "Servicios"
 Dejamos algunos cursos de programación gratis en algunos de los lenguajes de programación:
 
 # Cursos de programación para Python
-Página oficial de Python: https://www.python.org/ 
+Página oficial de Python: <https://www.python.org/> 
 
 - Curso en español de Codecademy: https://www.codecademy.com/learn/learn-python
 - Curso de para principiantes en Coursera: https://www.coursera.org/learn/python
@@ -40,3 +40,6 @@ Pagina oficial de Julia: https://julialang.org/learning/
 
 - Curso Introducción en DataCamp: https://www.datacamp.com/courses/introduction-to-julia
 - Curso de Codecademy: https://www.codecademy.com/learn/learn-julia
+
+# Cursos para Quarto
+Página oficial de Quarto: <https://quarto.org/>
