@@ -1,0 +1,12 @@
+---
+title: "Servicios"
+---
+
+- Python
+- R
+- Quarto
+- Julia
+- Anaconda
+- Spyder
+- Jupyter
+- Code

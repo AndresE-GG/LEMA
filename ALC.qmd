@@ -1,0 +1,6 @@
+---
+title: 'Algebra lineal computacional'
+---
+## Capitulo 1 
+Espacios con producto interno, definición. Bases ortogonales en espacios vectoriales con producto
+interno. R, C, C[a; b], polinomios, espacios de matrices. Espacios Normados en dimensión finita, definición, propiedades. Desigualdad de Cauchy-Schwars, espacios l_p,  L2(Cn[a; b]). Normas de Matrices, propiedades. Normas inducidas, norma de Frabenius, equivalencia de normas. Cálculo de normas l1, l1. Equivalencia de Normas. Cálculo de norma l2. Aplicación ¿Cómo vemos el mundo si cambiamos la métrica?

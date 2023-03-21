@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Horarios de atención",
+    "section": "",
+    "text": "Los horarios de atención para el semestre 2023-1 será de lunes a viernes de 2:00 p.m. a 4:00 p.m. En dicho horario se encontrará un monitor.\nSi se desea hacer uso del laboratorio se tendrá que hacer una solicitud a través de la secretaría del Departamento de Matemáticas y Ciencias Naturales o a través del coordinador Abel Álvarez Bustos. Para dicho ingreso se necesitará el acompañamiento de un docente."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "¿Quienes somos?",
+    "section": "",
+    "text": "El Laboratorio de Estadística y Matemáticas Aplicadas (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la Pontificia Universidad Javeriana Cali en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.\n\nObjetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas.\n\n\n\nAsignaturas\nEl laboratorio se enfocará en atender las siguientes materias de la Universidad:\n\nMétodos numéricos.\nIntroducción a la programación.\nAnálisis y computación numérica.\nIntroducción a la modelización.\nEstadística aplicada.\nTeoría de probabilidades.\nEstadística y probabilidad.\nComputación científica.\nÁlgebra lineal computacional.\nModelización I.\nModelización II."
+  },
+  {
+    "objectID": "index.html#objetivos-específicos",
+    "href": "index.html#objetivos-específicos",
+    "title": "LABORATORIO DE ESTADÍSTICA Y MATEMÁTICAS APLICADAS",
+    "section": "Objetivos específicos",
+    "text": "Objetivos específicos\n\nAyudar a los estudiantes a comprender y aplicar conceptos de matemáticas y estadística en diferentes campos.\nBrindar acceso a dispositivos, software para el aprendizaje"
+  },
+  {
+    "objectID": "nose2.html",
+    "href": "nose2.html",
+    "title": "Servicios",
+    "section": "",
+    "text": "Python\nR\nQuarto\nJulia\nAnaconda\nSpyder\nJupyter\nCode"
+  },
+  {
+    "objectID": "quienesSomos.html",
+    "href": "quienesSomos.html",
+    "title": "¿Quienes somos?",
+    "section": "",
+    "text": "El Laboratorio de Estadística y Matemáticas Aplicadas (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la Pontificia Universidad Javeriana Cali en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.\n\nObjetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas."
+  },
+  {
+    "objectID": "horarios.html",
+    "href": "horarios.html",
+    "title": "Horarios de atención",
+    "section": "",
+    "text": "Los horarios de atención para el semestre 2023-1 será de lunes a viernes de 2:00 p.m. a 4:00 p.m. En dicho horario se encontrará un monitor.\nSi se desea hacer uso del laboratorio se tendrá que hacer una solicitud a través de la secretaría del Departamento de Matemáticas y Ciencias Naturales o a través del coordinador Abel Álvarez Bustos. Para dicho ingreso se necesitará el acompañamiento de un docente."
+  },
+  {
+    "objectID": "servicios.html",
+    "href": "servicios.html",
+    "title": "Servicios",
+    "section": "",
+    "text": "Python\nR\nQuarto\nJulia\nAnaconda\nSpyder\nJupyter\nCode"
+  },
+  {
+    "objectID": "asignaturas.html",
+    "href": "asignaturas.html",
+    "title": "Asignaturas",
+    "section": "",
+    "text": "El laboratorio se enfocará en atender las dudas sobre las siguientes materias de la Universidad:\n\nMétodos numéricos.\nIntroducción a la programación.\nAnálisis y computación numérica.\nIntroducción a la modelización.\nComputación científica.\nÁlgebra lineal computacional.\nModelización y simulación I.\nModelización y simulación II."
+  },
+  {
+    "objectID": "ALC.html",
+    "href": "ALC.html",
+    "title": "Algebra lineal computacional",
+    "section": "",
+    "text": "Espacios con producto interno, definición. Bases ortogonales en espacios vectoriales con producto interno. R, C, C[a; b], polinomios, espacios de matrices. Espacios Normados en dimensión finita, definición, propiedades. Desigualdad de Cauchy-Schwars, espacios l_p, L2(Cn[a; b]). Normas de Matrices, propiedades. Normas inducidas, norma de Frabenius, equivalencia de normas. Cálculo de normas l1, l1. Equivalencia de Normas. Cálculo de norma l2. Aplicación ¿Cómo vemos el mundo si cambiamos la métrica?"
+  }
+]

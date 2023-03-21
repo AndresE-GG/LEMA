@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "LABORATORIO DE ESTADÍSTICA Y MATEMÁTICAS APLICADAS"
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - quienesSomos.qmd
+      - section: "Información general"
+        contents:
+        - horarios.qmd
+        - servicios.qmd
+        - section: "Asignaturas"
+          contents:
+          - ALC.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
