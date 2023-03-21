@@ -16,7 +16,7 @@ website:
     search: true
     contents:
       - quienesSomos.qmd
-      - section: 'Información general:'
+      - section: 'Información general'
         contents:
           - servicios.qmd
           - horarios.qmd
