@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "ALC.html",
+    "href": "ALC.html",
+    "title": "Algebra lineal computacional",
+    "section": "",
+    "text": "En la actualidad los problemas que estudia la matemática aplicada tiene un gran componente computacional, esto requiere un buen entendimiento e interpretación adecuada de los diferentes algoritmos que se usan para resolver problemas. En especial los algoritmos donde se usan muchas variables y/o iterativos para tener una apropiada interpretación de los resultados y que estos reflejen la realidad de los mismos. Es por es este motivo que este curso pretende dar algunas competencias computacionales y analíticas para el estudio del álgebra matricial computacional. En este curso se presentan los algoritmos y la teoría para resolver sistemas de ecuaciones lineales, debido a que estas están presentes en casi toda aplicación de modelos matemáticos."
+  },
+  {
+    "objectID": "ALC.html#capitulo-1",
+    "href": "ALC.html#capitulo-1",
+    "title": "Algebra lineal computacional",
+    "section": "Capitulo 1",
+    "text": "Capitulo 1\n\nEspacios con producto interno.\nBases ortogonales en espacios vectoriales con producto interno.\nEspacios de matrices.\nEspacios Normados en dimensión finita.\nDesigualdad de Cauchy-Schwars.\nEspacios \\(l_p\\), \\(L2(Cn[a, b])\\).\nNormas de Matrices.\nNormas inducidas, norma de Frabenius, equivalencia de normas y calculo de normas.\nEquivalencia de normas."
+  },
+  {
+    "objectID": "ALC.html#capitulo-2",
+    "href": "ALC.html#capitulo-2",
+    "title": "Algebra lineal computacional",
+    "section": "Capitulo 2",
+    "text": "Capitulo 2\n\nAnálisis de sensibilidad de sistemas de ecuaciones lineales.\nAnálisis del error.\nNúmero de condición.\nPerturbación de un sistema de ecuaciones.\nEjemplos con matrices un número de dimensión grande."
+  },
+  {
+    "objectID": "ALC.html#capitulo-3",
+    "href": "ALC.html#capitulo-3",
+    "title": "Algebra lineal computacional",
+    "section": "Capitulo 3",
+    "text": "Capitulo 3\n\nMétodos de solución de sistemas lineales.\nFactorización LU.\nMatrices definidas positivas y negativas.\nMétodo directos, Cholesky, gradiente Conjugado, Algoritmos de Thomas.\nMétodos iterativos (Jacobi, Gauss Saidel). Programación y ejemplos computacionales."
+  },
+  {
+    "objectID": "ALC.html#capitulo-4",
+    "href": "ALC.html#capitulo-4",
+    "title": "Algebra lineal computacional",
+    "section": "Capitulo 4",
+    "text": "Capitulo 4\n\nProyección ortogonal.\nSubespacios complementarios, descomposición ortogonal, teorema del rango y nulidad.\nFactorización QR.\nAlgoritmos computacionales: procesos Gram-Schmidt."
+  },
+  {
+    "objectID": "ALC.html#capitulo-5",
+    "href": "ALC.html#capitulo-5",
+    "title": "Algebra lineal computacional",
+    "section": "Capitulo 5",
+    "text": "Capitulo 5\n\nProblema de mínimos cuadrados\nRango completo, rango deficiente.\nCuadrado mínimo con restricciones.\nProblema de punto de silla.\nMétodo de Uzawa.\nMétodo de ecuaciones normales, inversa generalizada.\nSoluciones numéricas, Cholesky, gradiente conjugado.\nProblemas de aplicación."
+  },
+  {
+    "objectID": "ALC.html#capitulo-6",
+    "href": "ALC.html#capitulo-6",
+    "title": "Algebra lineal computacional",
+    "section": "Capitulo 6",
+    "text": "Capitulo 6\n\nDescomposición en valores singulares, Aplicaciones de la Descomposición en valores singulares, Solución de ecuaciones normales.\nAplicación compresión de imágenes.\nDescomposición de Shur, Teorema espectral."
+  },
+  {
+    "objectID": "ALC.html#capitulo-7",
+    "href": "ALC.html#capitulo-7",
+    "title": "Algebra lineal computacional",
+    "section": "Capitulo 7",
+    "text": "Capitulo 7\n\nAutovalores de una matriz.\nTeorema de los círculos de Gershgorin Algoritmo QR (soluciones reales).\nMétodo de las potencias."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "¿Quienes somos?",
+    "section": "",
+    "text": "Objetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas."
+  },
+  {
+    "objectID": "asignaturas.html",
+    "href": "asignaturas.html",
+    "title": "Asignaturas",
+    "section": "",
+    "text": "Métodos numéricos.\nIntroducción a la programación.\nAnálisis y computación numérica.\nIntroducción a la modelización.\nComputación científica.\nÁlgebra lineal computacional.\nModelización y simulación I.\nModelización y simulación II."
+  },
+  {
+    "objectID": "horarios.html",
+    "href": "horarios.html",
+    "title": "Horarios de atención",
+    "section": "",
+    "text": "Si se desea hacer uso del laboratorio se tendrá que hacer una solicitud a través de la secretaría del Departamento de Matemáticas y Ciencias Naturales o a través del coordinador Abel Álvarez Bustos. Para dicho ingreso se necesitará el acompañamiento de un docente."
+  },
+  {
+    "objectID": "introModelizacion.html",
+    "href": "introModelizacion.html",
+    "title": "Introducción a la modelización",
+    "section": "",
+    "text": "Introducción a la modelización es una asignatura de primer semestre de la carrera de matemáticas aplicadas, en ella se busca motivar a los estudiantes para que realicen una simplificación de algún fenómeno real, identificando las principales variables y las relaciones entre ellas Con este propósito la asignatura se ha divido en tres partes. En la primer parte se da una muy breve introducción a las ecuaciones en diferencias y sistemas dinámicos de ecuaciones en diferencias. En la segunda se presentan algunos modelos en donde sus variables están proporcionalmente relaciones, también se hacen ajustes polinomiales para los datos de un experimento. En la última parte se presenta la teoría de grafos como una herramienta descriptiva para dar una interpretación de algunos fenómenos concretos del mundo real."
+  },
+  {
+    "objectID": "introModelizacion.html#primera-parte",
+    "href": "introModelizacion.html#primera-parte",
+    "title": "Introducción a la modelización",
+    "section": "Primera parte:",
+    "text": "Primera parte:\n\nModelando el cambio\nEcuaciones en diferencias\nSolución a sistemas dinámico\nSistemas de diferencias."
+  },
+  {
+    "objectID": "introModelizacion.html#segunda-parte",
+    "href": "introModelizacion.html#segunda-parte",
+    "title": "Introducción a la modelización",
+    "section": "Segunda parte:",
+    "text": "Segunda parte:\n\nModelos matemáticos:\n\nModelos usando proporcionalidad\nModelos usando similaridad geométrica\nAjustar gráficamente modelos a datos\n\nMétodos analíticos para ajustar datos, Aplicando el criterio de mínimos cuadrados."
+  },
+  {
+    "objectID": "introModelizacion.html#tercer-parte",
+    "href": "introModelizacion.html#tercer-parte",
+    "title": "Introducción a la modelización",
+    "section": "Tercer parte:",
+    "text": "Tercer parte:\n\nIntroducción a la modelizacion experimental\nGrafos como modelos:\n\nDescribiendo grafos\nModelos con grafos\nUsando modelos de grafos para solucionar problemas"
+  },
+  {
+    "objectID": "modSimI.html",
+    "href": "modSimI.html",
+    "title": "Modelización y simulación I",
+    "section": "",
+    "text": "La modelización matemática es un rama principal en las matemáticas aplicadas, este curso va dirigido a estudiantes de matemática aplicada e ingeniera y pretende dar las principales herramientas para modelizar problemas donde involucren razones de cambio. Adicionalmente, pretendemos presentar algunas herramientas numéricas, basadas en diferencias finitas, para aproximar estos sistemas, mostrando algunos principios de estabilidad. De esta manera deseamos que es estudiante adquiera la habilidad de esquematizar un problema real en un sistema de ecuaciones diferenciales ordinarias, para que posteriormente simule e interprete las aproximaciones en un contexto dado. Adquiriendo asÍ, las capacidades simular problemas reales en diferentes contextos de las ciencias y adquirir la competencia de trabajar en equipos interdisciplinares, convirtiendo las matemática aplicadas como un laboratorio del mundo real."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-1",
+    "href": "modSimI.html#capitulo-1",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 1",
+    "text": "Capitulo 1\nIntroducción al modelización, ¿Qué es modelización matemática? Principios de conservación y balance. Análisis dimensional. Escaling."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-2",
+    "href": "modSimI.html#capitulo-2",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 2",
+    "text": "Capitulo 2\nModelos continuos, Ejemplos de modelos en ecuaciones diferenciales ordinarias. Modelos de crecimiento exponencial (crecimiento radiactivo, crecimiento de bacterias). Modelo logístico (modelos con capacidad de carga). Modelos de competencia de especies (depredador presa). Modelos de cooperación. Modelos en equilibrio. Modelos amortiguados."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-3",
+    "href": "modSimI.html#capitulo-3",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 3",
+    "text": "Capitulo 3\nSimulación numérica, diferencias finitas, aproximaciones de 1, 2 y alto orden. Error local, Error global. Problemas de valor inicial en ecuaciones diferenciales ordinarias. Relación entre la teoría de EDO y aproximaciones numéricas (existencia y unicidad, funciones lipchitz continuas)."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-4",
+    "href": "modSimI.html#capitulo-4",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 4",
+    "text": "Capitulo 4\nMétodos de un solo paso, (Método de Euler explicito, implícito). Métodos en series de Taylor, Métodos Runge-Kuta. Métodos lineales multipaso, Familias Adams-Bashforth, Adams-Boulton, Predictor-corrector. Programación numérica de los métodos para PVI."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-5",
+    "href": "modSimI.html#capitulo-5",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 5",
+    "text": "Capitulo 5\nCero estabilidad en métodos de un solo paso. Zero estabilidad en métodos multipaso. Absoluta estabilidad, regiones de absoluta estabilidad."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-6",
+    "href": "modSimI.html#capitulo-6",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 6",
+    "text": "Capitulo 6\nEcuaciones diferenciales tipo stiff. dificultades numéricas asociadas. Métodos numéricos A-estabilidad, L-estabilidad."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-7",
+    "href": "modSimI.html#capitulo-7",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 7",
+    "text": "Capitulo 7\nSimulación de sistemas de ecuaciones diferenciales. Métodos de un solo paso, métodos multipaso (implícitos-explícitos). Simulación en problemas reales."
+  },
+  {
+    "objectID": "modSimII.html",
+    "href": "modSimII.html",
+    "title": "Modelización y simulación II",
+    "section": "",
+    "text": "Las ecuaciones diferenciales parciales son de vital importancia para modelar muchos fenómenos físicos, biológicos, epidemiológicos, entre otros. Por tal motivo se hace indispensable en un programa de matemática aplicada ver una introducción de los diferentes fenómenos que modelan este tipo de ecuaciones y algunas herramientas matemáticas para la simulación de los mismos."
+  },
+  {
+    "objectID": "modSimII.html#capitulo-1",
+    "href": "modSimII.html#capitulo-1",
+    "title": "Modelización y simulación II",
+    "section": "Capitulo 1",
+    "text": "Capitulo 1\n\nEcuaciones de primer orden.\nEcuaciones de segundo orden."
+  },
+  {
+    "objectID": "modSimII.html#capitulo-2",
+    "href": "modSimII.html#capitulo-2",
+    "title": "Modelización y simulación II",
+    "section": "Capitulo 2",
+    "text": "Capitulo 2\n\nIntroducción a la teoría de Fourier:\n\nSeries Fourier\nTransformada de Fourier\nTransformada de Fourier aplicadas a las EDP."
+  },
+  {
+    "objectID": "modSimII.html#capitulo-3",
+    "href": "modSimII.html#capitulo-3",
+    "title": "Modelización y simulación II",
+    "section": "Capitulo 3",
+    "text": "Capitulo 3\n\nModelización en ecuaciones diferenciales parciales.\nEcuaciones de mecánica del continuo.\nCoordenadas Eulerianas-Lagrnagianas.\nTeorema del transporte, leyes de conservación (ecuaciones diferenciales parciales).\nEcuación de convección.\nEcuación de conducción del calor, proceso de difusión.\nEcuación de convección-difusión."
+  },
+  {
+    "objectID": "modSimII.html#capitulo-4",
+    "href": "modSimII.html#capitulo-4",
+    "title": "Modelización y simulación II",
+    "section": "Capitulo 4",
+    "text": "Capitulo 4\n\nMétodos numéricos para ecuaciones parabólicas.\n\nMétodo de Euler Explicito.\nMétodo semidescrizado\nMétodo de las líneas\nCondicion CFL.\n\nMétodos implícitos.\nAnálisis de Von-Neuwman.\nProblemas de valor inicial.\nCondiciones de frontera mixtas.\nMétodos para dos dimensiones:\n\nMétodo splitting.\nMétodo ADI.\n\nMétodos mixtos (explicito/implicito) ecuación de advección difusión.\nAplicaciones reales."
+  },
+  {
+    "objectID": "modSimII.html#capitulo-5",
+    "href": "modSimII.html#capitulo-5",
+    "title": "Modelización y simulación II",
+    "section": "Capitulo 5",
+    "text": "Capitulo 5\nMetodos numericos para ecuaciones diferenciales hiperbólicas, Metodo de las lineas, Metodos de segundo orden en el espacio. Análisis de Von-Neuwman. Condicion CFL. Sistemas hiperbolicos. Sistemas hiperbolicos lineales. Metodos para sistemas hiperbolicos. Aplicaciones reales."
+  },
+  {
+    "objectID": "modSimII.html#capitulo-6",
+    "href": "modSimII.html#capitulo-6",
+    "title": "Modelización y simulación II",
+    "section": "Capitulo 6",
+    "text": "Capitulo 6\nMetodos para ecuaciones elípticas. Discretizacion y condiciones acotas. Principio del maximo, Estimaciones del error global. Operador splitting. Aplicaciones reales."
+  },
+  {
+    "objectID": "servicios.html",
+    "href": "servicios.html",
+    "title": "Servicios",
+    "section": "",
+    "text": "Estos son los programas y lenguajes que estarán disponibles en el laboratorio:"
+  },
+  {
+    "objectID": "servicios.html#lenguajes-de-programación",
+    "href": "servicios.html#lenguajes-de-programación",
+    "title": "Servicios",
+    "section": "Lenguajes de programación",
+    "text": "Lenguajes de programación\n\nPython\nR\nQuarto\nJulia"
+  },
+  {
+    "objectID": "servicios.html#entornos",
+    "href": "servicios.html#entornos",
+    "title": "Servicios",
+    "section": "Entornos",
+    "text": "Entornos\n\nAnaconda\nSpyder\nJupyter\nVisual Studio Code\n\nDejamos algunos cursos de programación gratis en algunos de los lenguajes de programación:"
+  },
+  {
+    "objectID": "servicios.html#cursos-de-programación-para-python",
+    "href": "servicios.html#cursos-de-programación-para-python",
+    "title": "Servicios",
+    "section": "Cursos de programación para Python",
+    "text": "Cursos de programación para Python\nPágina oficial de Python: https://www.python.org/\n\nCurso en español de Codecademy: https://www.codecademy.com/learn/learn-python\nCurso de para principiantes en Coursera: https://www.coursera.org/learn/python\nCurso de Google para principiantes: https://developers.google.com/edu/python?hl=es-419\n\nCursos de las librerías mas utilizadas en Python:\n\nCurso de NumPy de DataCamp: https://www.datacamp.com/courses/intro-to-python-for-data-science\nCurso de NumPy y Pandas en español de Platzi: https://platzi.com/cursos/data-python/\nCurso de Matplotlib en español de Coursera: https://www.coursera.org/learn/python-plotting"
+  },
+  {
+    "objectID": "servicios.html#cursos-de-programación-para-r",
+    "href": "servicios.html#cursos-de-programación-para-r",
+    "title": "Servicios",
+    "section": "Cursos de programación para R",
+    "text": "Cursos de programación para R\nPagina oficial de R: https://www.rstudio.com/\n\nCurso en español de Coursera: https://www.coursera.org/learn/r-programming\nCurso básico de DataCamp: https://www.datacamp.com/courses/free-introduction-to-r"
+  },
+  {
+    "objectID": "servicios.html#cursos-de-programación-para-julia",
+    "href": "servicios.html#cursos-de-programación-para-julia",
+    "title": "Servicios",
+    "section": "Cursos de programación para Julia",
+    "text": "Cursos de programación para Julia\nPagina oficial de Julia: https://julialang.org/learning/\n\nCurso Introducción en DataCamp: https://www.datacamp.com/courses/introduction-to-julia\nCurso de Codecademy: https://www.codecademy.com/learn/learn-julia"
+  },
+  {
+    "objectID": "servicios.html#cursos-para-quarto",
+    "href": "servicios.html#cursos-para-quarto",
+    "title": "Servicios",
+    "section": "Cursos para Quarto",
+    "text": "Cursos para Quarto\nPágina oficial de Quarto: https://quarto.org/"
+  }
+]

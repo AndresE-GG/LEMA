@@ -1,0 +1,16 @@
+---
+title: "¿Quienes somos?"
+---
+
+El Laboratorio de Estadística y Matemáticas Aplicadas (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la Pontificia Universidad Javeriana Cali en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.
+
+# Objetivo general
+- Fomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.
+
+# Objetivos específicos
+
+- Ayudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.
+
+- Brindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.
+
+- Proporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas.

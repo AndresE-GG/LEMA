@@ -12,10 +12,12 @@ website:
       - icon: instagram
         href: "https://www.instagram.com/gemapuj/"
         text: Citas
-    style: docked
+
+    style: "docked"
     search: true
+    collapse-level: 1
     contents:
-      - quienesSomos.qmd
+      - index.qmd
       - section: 'Información general'
         contents:
           - servicios.qmd

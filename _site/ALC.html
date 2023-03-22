@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.36">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>LABORATORIO DE ESTADÍSTICA Y MATEMÁTICAS APLICADAS - Algebra lineal computacional</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar docked">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Algebra lineal computacional</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+      <a href="./" class="sidebar-logo-link">
+      <img src="./logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main">
+    <a href="https://www.instagram.com/gemapuj/" title="Citas" class="sidebar-tool px-1"><i class="bi bi-instagram"></i></a>
+</div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  quienesSomos.qmd
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">Información general</a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./servicios.html" class="sidebar-item-text sidebar-link">Servicios</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./horarios.html" class="sidebar-item-text sidebar-link">Horarios de atención</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Asignaturas</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ALC.html" class="sidebar-item-text sidebar-link active">Algebra lineal computacional</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./introModelizacion.html" class="sidebar-item-text sidebar-link">Introducción a la modelización</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modSimI.html" class="sidebar-item-text sidebar-link">Modelización y simulación I</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modSimII.html" class="sidebar-item-text sidebar-link">Modelización y simulación II</a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#descripción-de-la-asignatura" id="toc-descripción-de-la-asignatura" class="nav-link active" data-scroll-target="#descripción-de-la-asignatura">Descripción de la asignatura</a></li>
+  <li><a href="#capitulo-1" id="toc-capitulo-1" class="nav-link" data-scroll-target="#capitulo-1">Capitulo 1</a></li>
+  <li><a href="#capitulo-2" id="toc-capitulo-2" class="nav-link" data-scroll-target="#capitulo-2">Capitulo 2</a></li>
+  <li><a href="#capitulo-3" id="toc-capitulo-3" class="nav-link" data-scroll-target="#capitulo-3">Capitulo 3</a></li>
+  <li><a href="#capitulo-4" id="toc-capitulo-4" class="nav-link" data-scroll-target="#capitulo-4">Capitulo 4</a></li>
+  <li><a href="#capitulo-5" id="toc-capitulo-5" class="nav-link" data-scroll-target="#capitulo-5">Capitulo 5</a></li>
+  <li><a href="#capitulo-6" id="toc-capitulo-6" class="nav-link" data-scroll-target="#capitulo-6">Capitulo 6</a></li>
+  <li><a href="#capitulo-7" id="toc-capitulo-7" class="nav-link" data-scroll-target="#capitulo-7">Capitulo 7</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Algebra lineal computacional</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="descripción-de-la-asignatura" class="level2">
+<h2 class="anchored" data-anchor-id="descripción-de-la-asignatura">Descripción de la asignatura</h2>
+<p>En la actualidad los problemas que estudia la matemática aplicada tiene un gran componente computacional, esto requiere un buen entendimiento e interpretación adecuada de los diferentes algoritmos que se usan para resolver problemas. En especial los algoritmos donde se usan muchas variables y/o iterativos para tener una apropiada interpretación de los resultados y que estos reflejen la realidad de los mismos. Es por es este motivo que este curso pretende dar algunas competencias computacionales y analíticas para el estudio del álgebra matricial computacional. En este curso se presentan los algoritmos y la teoría para resolver sistemas de ecuaciones lineales, debido a que estas están presentes en casi toda aplicación de modelos matemáticos.</p>
+</section>
+<section id="capitulo-1" class="level2">
+<h2 class="anchored" data-anchor-id="capitulo-1">Capitulo 1</h2>
+<ul>
+<li>Espacios con producto interno.</li>
+<li>Bases ortogonales en espacios vectoriales con producto interno.</li>
+<li>Espacios de matrices.</li>
+<li>Espacios Normados en dimensión finita.</li>
+<li>Desigualdad de Cauchy-Schwars.</li>
+<li>Espacios <span class="math inline">\(l_p\)</span>, <span class="math inline">\(L2(Cn[a, b])\)</span>.</li>
+<li>Normas de Matrices.</li>
+<li>Normas inducidas, norma de Frabenius, equivalencia de normas y calculo de normas.</li>
+<li>Equivalencia de normas.</li>
+</ul>
+</section>
+<section id="capitulo-2" class="level2">
+<h2 class="anchored" data-anchor-id="capitulo-2">Capitulo 2</h2>
+<ul>
+<li>Análisis de sensibilidad de sistemas de ecuaciones lineales.</li>
+<li>Análisis del error.</li>
+<li>Número de condición.</li>
+<li>Perturbación de un sistema de ecuaciones.</li>
+<li>Ejemplos con matrices un número de dimensión grande.</li>
+</ul>
+</section>
+<section id="capitulo-3" class="level2">
+<h2 class="anchored" data-anchor-id="capitulo-3">Capitulo 3</h2>
+<ul>
+<li>Métodos de solución de sistemas lineales.</li>
+<li>Factorización LU.</li>
+<li>Matrices definidas positivas y negativas.</li>
+<li>Método directos, Cholesky, gradiente Conjugado, Algoritmos de Thomas.</li>
+<li>Métodos iterativos (Jacobi, Gauss Saidel). Programación y ejemplos computacionales.</li>
+</ul>
+</section>
+<section id="capitulo-4" class="level2">
+<h2 class="anchored" data-anchor-id="capitulo-4">Capitulo 4</h2>
+<ul>
+<li>Proyección ortogonal.</li>
+<li>Subespacios complementarios, descomposición ortogonal, teorema del rango y nulidad.</li>
+<li>Factorización QR.</li>
+<li>Algoritmos computacionales: procesos Gram-Schmidt.</li>
+</ul>
+</section>
+<section id="capitulo-5" class="level2">
+<h2 class="anchored" data-anchor-id="capitulo-5">Capitulo 5</h2>
+<ul>
+<li>Problema de mínimos cuadrados</li>
+<li>Rango completo, rango deficiente.</li>
+<li>Cuadrado mínimo con restricciones.</li>
+<li>Problema de punto de silla.</li>
+<li>Método de Uzawa.</li>
+<li>Método de ecuaciones normales, inversa generalizada.</li>
+<li>Soluciones numéricas, Cholesky, gradiente conjugado.</li>
+<li>Problemas de aplicación.</li>
+</ul>
+</section>
+<section id="capitulo-6" class="level2">
+<h2 class="anchored" data-anchor-id="capitulo-6">Capitulo 6</h2>
+<ul>
+<li>Descomposición en valores singulares, Aplicaciones de la Descomposición en valores singulares, Solución de ecuaciones normales.</li>
+<li>Aplicación compresión de imágenes.</li>
+<li>Descomposición de Shur, Teorema espectral.</li>
+</ul>
+</section>
+<section id="capitulo-7" class="level2">
+<h2 class="anchored" data-anchor-id="capitulo-7">Capitulo 7</h2>
+<ul>
+<li>Autovalores de una matriz.</li>
+<li>Teorema de los círculos de Gershgorin Algoritmo QR (soluciones reales).</li>
+<li>Método de las potencias.</li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
