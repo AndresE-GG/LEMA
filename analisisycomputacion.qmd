@@ -1,0 +1,60 @@
+---
+title: "Análisis y computación numérica"
+---
+## Descripción de la asignatura
+Los métodos numéricos es una rama de las matemáticas aplicadas que se encarga de aproximar la solución de problemas complejos usando algoritmos, los cuales en su mayoría se puede implementar computacionalmente a través de lenguajes formales de programación, como phython, matlab, c++, fortran, entre otros. debido a la diversidad de los métodos numéricos existentes, en este curso, se pretende enseñar los principios fundamentales de esta rama, como lo son el análisis del error, convergencia, algoritmos iterativos y directos. para alcanzar este objetivo se pretende estudiar problemas generales fácilmente implementables en la ingeniería y rápidamente traducibles en un lenguaje de programación. adicionalmente, esperamos mostrar como los métodos numéricos, bien implementados en un lenguaje de programación, resultan un herramienta eficaz y eficiente para aproximar soluciones de problemas complejos heredados de la ingeniería y las matemáticas.
+
+## Capitulo 1
+- Introducción a la programación con matlab.
+- Definición del error (relativo-absoluto).
+
+## Capitulo 2
+- Método del punto fijo.
+- Método de bisección bolsano. 
+- Método de la regla falsa.
+- Método de la secante.
+- Método de newton raphson
+- Solución de sistemas lineales usando matlab.
+- Ejercicios de aplicación.
+
+## Capitulo 3
+- Introducción a las normas de matrices. 
+- Número de condicionamiento.
+- Eliminación gausiana.
+- Solución de sistemas triangular superior e inferior.
+- Factorización lu-pivoteo. 
+- Solución de sistemas lineales con pivoteo y sin pivoteo.
+- Métodos iterativos para resolver sistemas jacobi-gauss-seidel.
+
+## Capitulo 4
+- Interpolación de lagrange.
+- Diferencias divididas de newton.
+- Regresión de mínimos cuadrados. 
+- Ajuste de curvas.
+
+## Capitulo 5
+- Diferenciación numérica, - 
+- Diferencias finitas (formulas).
+- Integración numérica, error, 
+- Regla del trapecio / punto medio, regla del simpson (1/3-3/8).
+
+## Capitulo 6
+- Definición de la transformada de fourier. 
+- Transformada discreta de fourier.
+- Tfd, propiedades de tfd (linealidad, desplazamiento en tiempo y frecuencia)
+- Transformada rápida de fourier trf.
+- Transformada del coseno.
+- Transformada de hadamard-hartley.
+- Transformada wavelets.
+
+# Referencias del curso
+
+- Métodos numéricos con matlab, john h. mathews. prentice hall.
+
+- Métodos numéricos para ingenieros (2007), steven chapra y raymond canale. mc graw hill, quinta edición.
+
+- Análisis numérico. jorge figueroa. pontificia universidad javeriana cali (2001).
+
+- Análisis numérico, (2002). séptima edición. richard burden y j. douglas faires. thomson editores.
+
+- Matemáticas avanzadas para ingeniería. segunda edición (2002). glyn james. prentice hall.
