@@ -2,9 +2,9 @@
   {
     "objectID": "avancesProyectos.html",
     "href": "avancesProyectos.html",
-    "title": "LABORATORIO DE ESTADÍSTICA Y MATEMÁTICAS APLICADAS",
+    "title": "Avances de proyectos",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPrueba\n\n\n\n\n\n\nJul 28, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "ALC.html",
@@ -65,14 +65,14 @@
   {
     "objectID": "posts/prueba1/prueba1.html",
     "href": "posts/prueba1/prueba1.html",
-    "title": "Prueba 1",
+    "title": "Prueba",
     "section": "",
-    "text": "Don’t miss Julia Stewart Lowndes and I talk about Quarto at rstudio::conf(2022) at 9am ET. Join us in Potomac A or on the live stream at rstd.io/conf.\nOur talks is titled Hello Quarto: Share + Collaborate + Teach + Reimagine. And our slides are at mine.quarto.pub/hello-quarto if you’d like to follow along!"
+    "text": "Don’t miss Julia Stewart Lowndes and I talk about Quarto at 9am ET. Join us in Potomac A or on the live stream at rstd.io/conf.\nOur talks is titled Hello Quarto: Share + Collaborate + Teach + Reimagine. And our slides are at mine.quarto.pub/hello-quarto if you’d like to follow along!"
   },
   {
     "objectID": "posts/prueba1/prueba1.html#learn-more",
     "href": "posts/prueba1/prueba1.html#learn-more",
-    "title": "Prueba 1",
+    "title": "Prueba",
     "section": "Learn more",
     "text": "Learn more\n\nRepo for slides: github.com/mine-cetinkaya-rundel/hello-quarto\nRepo for the demo website we create in the talk: github.com/mine-cetinkaya-rundel/hello-quarto-demo\nConference schedule for more Quarto talks on Day 2 of the conference: rstudio.com/conference/2022/schedule"
   },
@@ -271,5 +271,40 @@
     "title": "Modelización y simulación II",
     "section": "Capitulo 6",
     "text": "Capitulo 6\nMetodos para ecuaciones elípticas. Discretizacion y condiciones acotas. Principio del maximo, Estimaciones del error global. Operador splitting. Aplicaciones reales."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "¿Quienes somos?",
+    "section": "",
+    "text": "El Laboratorio de Estadística y Matemáticas Aplicadas (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la Pontificia Universidad Javeriana Cali en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.\n\nObjetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas."
+  },
+  {
+    "objectID": "posts/avancesProyectos/prueba1.html",
+    "href": "posts/avancesProyectos/prueba1.html",
+    "title": "Prueba",
+    "section": "",
+    "text": "Don’t miss Julia Stewart Lowndes and I talk about Quarto at 9am ET. Join us in Potomac A or on the live stream at rstd.io/conf.\nOur talks is titled Hello Quarto: Share + Collaborate + Teach + Reimagine. And our slides are at mine.quarto.pub/hello-quarto if you’d like to follow along!"
+  },
+  {
+    "objectID": "posts/avancesProyectos/prueba1.html#learn-more",
+    "href": "posts/avancesProyectos/prueba1.html#learn-more",
+    "title": "Prueba",
+    "section": "Learn more",
+    "text": "Learn more\n\nRepo for slides: github.com/mine-cetinkaya-rundel/hello-quarto\nRepo for the demo website we create in the talk: github.com/mine-cetinkaya-rundel/hello-quarto-demo\nConference schedule for more Quarto talks on Day 2 of the conference: rstudio.com/conference/2022/schedule"
+  },
+  {
+    "objectID": "posts/avancesProyectos/index.html",
+    "href": "posts/avancesProyectos/index.html",
+    "title": "Prueba",
+    "section": "",
+    "text": "Don’t miss Julia Stewart Lowndes and I talk about Quarto at 9am ET. Join us in Potomac A or on the live stream at rstd.io/conf.\nOur talks is titled Hello Quarto: Share + Collaborate + Teach + Reimagine. And our slides are at mine.quarto.pub/hello-quarto if you’d like to follow along!"
+  },
+  {
+    "objectID": "posts/avancesProyectos/index.html#learn-more",
+    "href": "posts/avancesProyectos/index.html#learn-more",
+    "title": "Prueba",
+    "section": "Learn more",
+    "text": "Learn more\n\nRepo for slides: github.com/mine-cetinkaya-rundel/hello-quarto\nRepo for the demo website we create in the talk: github.com/mine-cetinkaya-rundel/hello-quarto-demo\nConference schedule for more Quarto talks on Day 2 of the conference: rstudio.com/conference/2022/schedule"
   }
 ]
