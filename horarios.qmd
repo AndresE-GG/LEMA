@@ -5,3 +5,5 @@ title: "Horarios de atención"
 Los horarios de atención para el semestre 2023-1 será de lunes a viernes de 2:00 p.m. a 4:00 p.m. En dicho horario se encontrará un monitor.
 
 Si se desea hacer uso del laboratorio se tendrá que hacer una solicitud a través de la secretaría del Departamento de Matemáticas y Ciencias Naturales o a través del coordinador Abel Álvarez Bustos. Para dicho ingreso se necesitará el acompañamiento de un docente.
+
+Link de reserva para reservar el laboratorio <https://outlook.office365.com/owa/calendar/LaboratoriodeMatematicas@javerianacaliedu.onmicrosoft.com/bookings/>
