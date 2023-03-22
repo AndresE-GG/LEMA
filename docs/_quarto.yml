@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "LABORATORIO DE ESTADÍSTICA Y MATEMÁTICAS APLICADAS"
+  sidebar:
+
+    logo: "logo.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: instagram
+        href: "https://www.instagram.com/gemapuj/"
+        text: Citas
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - index.qmd
+      - section: 'Información general'
+        contents:
+          - servicios.qmd
+          - horarios.qmd
+      - section: "Asignaturas"
+        contents:
+          - ALC.qmd
+          - introModelizacion.qmd
+          - modSimI.qmd
+          - modSimII.qmd
+      - avancesProyectos.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,47 @@
+---
+title: "Modelización y simulación II"
+---
+
+## Descripción de la materia
+Las ecuaciones diferenciales parciales son de vital importancia para modelar muchos fenómenos físicos, biológicos, epidemiológicos, entre otros. Por tal motivo se hace indispensable en un programa de matemática aplicada ver una introducción de los diferentes fenómenos que modelan este tipo de ecuaciones y algunas herramientas matemáticas para la simulación de los mismos.
+
+## Capitulo 1 
+- Ecuaciones de primer orden.
+- Ecuaciones de segundo orden. 
+
+## Capitulo 2 
+- Introducción a la teoría de Fourier:
+    - Series Fourier
+    - Transformada de Fourier
+    - Transformada de Fourier aplicadas a las EDP.
+
+## Capitulo 3 
+- Modelización en ecuaciones diferenciales parciales.
+- Ecuaciones de mecánica del continuo.
+- Coordenadas Eulerianas-Lagrnagianas. 
+- Teorema del transporte, leyes de conservación (ecuaciones diferenciales parciales). 
+- Ecuación de convección. 
+- Ecuación de conducción del calor, proceso de difusión.
+- Ecuación de convección-difusión. 
+
+## Capitulo 4 
+- Métodos numéricos para ecuaciones parabólicas. 
+    - Método de Euler Explicito. 
+    - Método semidescrizado
+    - Método de las líneas
+    - Condicion CFL. 
+- Métodos implícitos. 
+- Análisis de Von-Neuwman. 
+- Problemas de valor inicial. 
+- Condiciones de frontera mixtas. 
+- Métodos para dos dimensiones:
+    - Método splitting. 
+    - Método ADI. 
+- Métodos mixtos (explicito/implicito) ecuación de advección difusión. 
+- Aplicaciones reales.
+
+## Capitulo 5 
+Metodos numericos para ecuaciones diferenciales hiperbólicas, Metodo de las lineas, Metodos de segundo orden en el espacio. Análisis de Von-Neuwman. Condicion CFL. Sistemas hiperbolicos. Sistemas hiperbolicos lineales. Metodos para sistemas hiperbolicos. Aplicaciones reales.
+
+## Capitulo 6 
+Metodos para ecuaciones elípticas. Discretizacion y condiciones acotas. Principio del maximo, Estimaciones del error global. Operador splitting. Aplicaciones reales.
