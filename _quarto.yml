@@ -28,6 +28,7 @@ website:
           - introModelizacion.qmd
           - modSimI.qmd
           - modSimII.qmd
+      - avancesProyectos.qmd
 
 format:
   html:
