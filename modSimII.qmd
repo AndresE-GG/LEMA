@@ -41,7 +41,19 @@ Las ecuaciones diferenciales parciales son de vital importancia para modelar muc
 - Aplicaciones reales.
 
 ## Capitulo 5 
-Metodos numericos para ecuaciones diferenciales hiperbólicas, Metodo de las lineas, Metodos de segundo orden en el espacio. Análisis de Von-Neuwman. Condicion CFL. Sistemas hiperbolicos. Sistemas hiperbolicos lineales. Metodos para sistemas hiperbolicos. Aplicaciones reales.
+-   Metodos numericos para ecuaciones diferenciales hiperbólicas.
+-   Metodo de las lineas.
+-   Metodos de segundo orden en el espacio. 
+-   Análisis de Von-Neuwman. 
+-   Condicion CFL. 
+-   Sistemas hiperbolicos. 
+-   Sistemas hiperbolicos lineales. 
+-   Metodos para sistemas hiperbolicos. 
+-   Aplicaciones reales.
 
 ## Capitulo 6 
-Metodos para ecuaciones elípticas. Discretizacion y condiciones acotas. Principio del maximo, Estimaciones del error global. Operador splitting. Aplicaciones reales.
+-   Metodos para ecuaciones elípticas. 
+-   Discretizacion y condiciones acotas. 
+-   Principio del maximo y estimaciones del error global. 
+-   Operador splitting. 
+-   Aplicaciones reales.

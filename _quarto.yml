@@ -23,15 +23,17 @@ website:
           - horarios.qmd
       - section: "Asignaturas"
         contents:
-          - ALC.qmd
           - introModelizacion.qmd
+          - analisisycomputacion.qmd
+          - ALC.qmd
           - modSimI.qmd
           - modSimII.qmd
       - avancesProyectos.qmd
+      - semilleros.qmd
 
 format:
   html:
     theme: 
-      light: [cosmo, theme.scss]
-      dark: [cosmo, theme-dark.scss]
+      light: cosmo
+      dark: darkly
     toc: true
