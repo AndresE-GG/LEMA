@@ -4,14 +4,13 @@ project:
 website:
   title: "LABORATORIO DE ESTADÍSTICA Y MATEMÁTICAS APLICADAS"
   sidebar:
-
-    logo: "logo.png"
+    logo: "images/logo.png"
     pinned: true
     align: center
     tools:
-      - icon: instagram
-        href: "https://www.instagram.com/gemapuj/"
-        text: Citas
+      - icon: calendar-plus
+        href: https://outlook.office365.com/owa/calendar/LaboratoriodeMatematicas@javerianacaliedu.onmicrosoft.com/bookings/
+        text: Reservas
 
     style: "docked"
     search: true
@@ -32,9 +31,7 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
     toc: true
-
-
-

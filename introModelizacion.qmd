@@ -24,8 +24,3 @@ Introducción a la modelización es una asignatura de primer semestre de la carr
     - Modelos con grafos
     - Usando modelos de grafos para solucionar problemas
 
-## Bibliografía
-- giordano, f., fox, w. p., & horton, s. (2013). a first course in mathematical modeling. nelson education.
-- apostol, t. m. (2007). calculus, volume i (vol. 1). john wiley & sons.
-- notas de clase.
-

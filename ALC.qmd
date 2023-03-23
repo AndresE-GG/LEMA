@@ -54,9 +54,3 @@ En la actualidad los problemas que estudia la matemática aplicada tiene un gran
 - Autovalores de una matriz. 
 - Teorema de los círculos de Gershgorin Algoritmo QR (soluciones reales). 
 - Método de las potencias.
-
-## Bibiolografías
-- Meyer, c. d. (2000). matrix analysis and applied linear algebra (vol. 2). 
-- Siam. pulino, p. (2012). algebra linear e suas aplicaccoes: notas de aula. 
-- Trefethen, l. n., & bau iii, d. (1997). Numerical linear algebra (vol. 50). 
-- Siam.|demmel, j. w. (1997). applied numerical linear algebra. society for industrial and applied mathematics.

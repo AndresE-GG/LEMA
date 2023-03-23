@@ -1,7 +1,7 @@
 ---
 title: 'Avances de proyectos'
 listing:
-  contents: "posts/*/index.qmd"
+  contents: "postsProy/*/index.qmd"
   feed: true
   sort: "date desc"
   type: grid
@@ -9,7 +9,7 @@ listing:
   sort-ui: true
   filter-ui: true
   image-placeholder: images/image-placeholder.png
-  fields: [image, date, title, description]
+  fields: [image, date, title, description, author]
 page-layout: full
 title-block-banner: true
 ---
