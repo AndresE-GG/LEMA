@@ -1,0 +1,13 @@
+---
+title: 'Noticias'
+listing:
+  contents: "noticias/*/index.qmd"
+  feed: true
+  sort: "date desc"
+  type: grid
+  sort-ui: true
+  image-placeholder: images/image-placeholder.png
+  fields: [image, date, title, description, author]
+page-layout: full
+title-block-banner: true
+---

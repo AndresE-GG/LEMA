@@ -2,18 +2,13 @@ project:
   type: website
 
 website:
-  title: "LABORATORIO DE ESTADÍSTICA Y MATEMÁTICAS APLICADAS"
+  title: "Laboratorio de estadística y matemáticas aplicadas"
   sidebar:
     logo: "images/logo.png"
+    search: true
     pinned: true
     align: center
-    tools:
-      - icon: calendar-plus
-        href: https://outlook.office365.com/owa/calendar/LaboratoriodeMatematicas@javerianacaliedu.onmicrosoft.com/bookings/
-        text: Reservas
-
     style: "docked"
-    search: true
     collapse-level: 1
     contents:
       - index.qmd
@@ -28,11 +23,25 @@ website:
           - ALC.qmd
           - modSimI.qmd
           - modSimII.qmd
+      - section: 'Links de interés' 
+        contents:
+        - links/python.qmd
+        - links/r.qmd
+        - links/julia.qmd
+        - links/quarto.qmd
       - avancesProyectos.qmd
       - semilleros.qmd
+      - noticias.qmd
+      - text: '---'
+      - text: Reservas
+        href: https://outlook.office365.com/owa/calendar/LaboratoriodeMatematicas@javerianacaliedu.onmicrosoft.com/bookings/
+
+  page-footer: 
+    left: Esta página no representa las políticas de la universidad Javeriana
 
 format:
   html:
+    link-external-newwindow: true
     theme: 
       light: cosmo
       dark: darkly
