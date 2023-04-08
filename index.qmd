@@ -4,6 +4,8 @@ title: "¿Quienes somos?"
 
 El Laboratorio de Estadística y [Matemáticas Aplicadas](https://www.javerianacali.edu.co/programas/carreras/matematicas-aplicadas) (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la [Pontificia Universidad Javeriana Cali](https://www.javerianacali.edu.co/) en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.
 
+![](images/quienesSomos1.png){width="600"}
+
 # Objetivo general
 - Fomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.
 
@@ -14,6 +16,8 @@ El Laboratorio de Estadística y [Matemáticas Aplicadas](https://www.javerianac
 - Brindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.
 
 - Proporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas.
+
+![](images/quienesSomos2.png){width="500"}
 
 ---
 

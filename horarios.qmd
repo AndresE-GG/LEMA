@@ -9,3 +9,12 @@ Si se desea hacer uso del laboratorio se tendrá que hacer una solicitud a trav�
 |Hora |Lunes |Martes |Miercoles |Jueves |Viernes |
 |--------------|-----------|-----------|-----------|-----------|-----------|
 |2:00 p.m - 4:00 p.m|Julian Soto |Andrés Guaca |Juan José Ruiz |Julian Soto |Julian Soto |
+
+<style>
+    img {
+        display: block;
+        margin: auto;
+    }
+</style>
+
+![](images/horarios.png){width="500"}

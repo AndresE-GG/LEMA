@@ -1,8 +1,12 @@
+
 ---
 title: "Análisis y computación numérica"
 ---
+
 ## Descripción de la asignatura
 Los métodos numéricos es una rama de las matemáticas aplicadas que se encarga de aproximar la solución de problemas complejos usando algoritmos, los cuales en su mayoría se puede implementar computacionalmente a través de lenguajes formales de programación, como phython, matlab, c++, fortran, entre otros. debido a la diversidad de los métodos numéricos existentes, en este curso, se pretende enseñar los principios fundamentales de esta rama, como lo son el análisis del error, convergencia, algoritmos iterativos y directos. para alcanzar este objetivo se pretende estudiar problemas generales fácilmente implementables en la ingeniería y rápidamente traducibles en un lenguaje de programación. adicionalmente, esperamos mostrar como los métodos numéricos, bien implementados en un lenguaje de programación, resultan un herramienta eficaz y eficiente para aproximar soluciones de problemas complejos heredados de la ingeniería y las matemáticas.
+
+![](images/ACN.png){width="500"}
 
 ## Capitulo 1
 - Introducción a la programación con matlab.

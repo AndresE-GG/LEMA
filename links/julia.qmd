@@ -1,0 +1,8 @@
+---
+title: 'Links para Julia'
+---
+
+Pagina oficial de Julia: [julialang.org](https://julialang.org/)
+
+- Curso Introducción en DataCamp: [datacamp.com/courses/introduction-to-julia](https://www.datacamp.com/courses/introduction-to-julia)
+- Curso de Codecademy: [codecademy.com/learn/learn-julia](https://www.codecademy.com/learn/learn-julia)

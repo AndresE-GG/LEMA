@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "¿Quienes somos?",
     "section": "",
-    "text": "El Laboratorio de Estadística y Matemáticas Aplicadas (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la Pontificia Universidad Javeriana Cali en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.\n\nObjetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas."
+    "text": "Objetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas.\n\n\n\n\nStaff:\n\nMonitores:\n\nJulián Soto\nJuan José Ruíz\nAndrés Guaca"
   },
   {
     "objectID": "analisisycomputacion.html",
@@ -58,63 +58,63 @@
   {
     "objectID": "ALC.html",
     "href": "ALC.html",
-    "title": "Algebra lineal computacional",
+    "title": "Álgebra lineal computacional",
     "section": "",
     "text": "En la actualidad los problemas que estudia la matemática aplicada tiene un gran componente computacional, esto requiere un buen entendimiento e interpretación adecuada de los diferentes algoritmos que se usan para resolver problemas. En especial los algoritmos donde se usan muchas variables y/o iterativos para tener una apropiada interpretación de los resultados y que estos reflejen la realidad de los mismos. Es por es este motivo que este curso pretende dar algunas competencias computacionales y analíticas para el estudio del álgebra matricial computacional. En este curso se presentan los algoritmos y la teoría para resolver sistemas de ecuaciones lineales, debido a que estas están presentes en casi toda aplicación de modelos matemáticos."
   },
   {
     "objectID": "ALC.html#capitulo-1",
     "href": "ALC.html#capitulo-1",
-    "title": "Algebra lineal computacional",
+    "title": "Álgebra lineal computacional",
     "section": "Capitulo 1",
     "text": "Capitulo 1\n\nEspacios con producto interno.\nBases ortogonales en espacios vectoriales con producto interno.\nEspacios de matrices.\nEspacios Normados en dimensión finita.\nDesigualdad de Cauchy-Schwars.\nEspacios \\(l_p\\), \\(L2(Cn[a, b])\\).\nNormas de Matrices.\nNormas inducidas, norma de Frabenius, equivalencia de normas y calculo de normas.\nEquivalencia de normas."
   },
   {
     "objectID": "ALC.html#capitulo-2",
     "href": "ALC.html#capitulo-2",
-    "title": "Algebra lineal computacional",
+    "title": "Álgebra lineal computacional",
     "section": "Capitulo 2",
     "text": "Capitulo 2\n\nAnálisis de sensibilidad de sistemas de ecuaciones lineales.\nAnálisis del error.\nNúmero de condición.\nPerturbación de un sistema de ecuaciones.\nEjemplos con matrices un número de dimensión grande."
   },
   {
     "objectID": "ALC.html#capitulo-3",
     "href": "ALC.html#capitulo-3",
-    "title": "Algebra lineal computacional",
+    "title": "Álgebra lineal computacional",
     "section": "Capitulo 3",
     "text": "Capitulo 3\n\nMétodos de solución de sistemas lineales.\nFactorización LU.\nMatrices definidas positivas y negativas.\nMétodo directos, Cholesky, gradiente Conjugado, Algoritmos de Thomas.\nMétodos iterativos (Jacobi, Gauss Saidel). Programación y ejemplos computacionales."
   },
   {
     "objectID": "ALC.html#capitulo-4",
     "href": "ALC.html#capitulo-4",
-    "title": "Algebra lineal computacional",
+    "title": "Álgebra lineal computacional",
     "section": "Capitulo 4",
     "text": "Capitulo 4\n\nProyección ortogonal.\nSubespacios complementarios, descomposición ortogonal, teorema del rango y nulidad.\nFactorización QR.\nAlgoritmos computacionales: procesos Gram-Schmidt."
   },
   {
     "objectID": "ALC.html#capitulo-5",
     "href": "ALC.html#capitulo-5",
-    "title": "Algebra lineal computacional",
+    "title": "Álgebra lineal computacional",
     "section": "Capitulo 5",
     "text": "Capitulo 5\n\nProblema de mínimos cuadrados\nRango completo, rango deficiente.\nCuadrado mínimo con restricciones.\nProblema de punto de silla.\nMétodo de Uzawa.\nMétodo de ecuaciones normales, inversa generalizada.\nSoluciones numéricas, Cholesky, gradiente conjugado.\nProblemas de aplicación."
   },
   {
     "objectID": "ALC.html#capitulo-6",
     "href": "ALC.html#capitulo-6",
-    "title": "Algebra lineal computacional",
+    "title": "Álgebra lineal computacional",
     "section": "Capitulo 6",
     "text": "Capitulo 6\n\nDescomposición en valores singulares, Aplicaciones de la Descomposición en valores singulares, Solución de ecuaciones normales.\nAplicación compresión de imágenes.\nDescomposición de Shur, Teorema espectral."
   },
   {
     "objectID": "ALC.html#capitulo-7",
     "href": "ALC.html#capitulo-7",
-    "title": "Algebra lineal computacional",
+    "title": "Álgebra lineal computacional",
     "section": "Capitulo 7",
     "text": "Capitulo 7\n\nAutovalores de una matriz.\nTeorema de los círculos de Gershgorin Algoritmo QR (soluciones reales).\nMétodo de las potencias."
   },
   {
     "objectID": "ALC.html#bibiolografías",
     "href": "ALC.html#bibiolografías",
-    "title": "Algebra lineal computacional",
+    "title": "Álgebra lineal computacional",
     "section": "Bibiolografías",
     "text": "Bibiolografías\n\nMeyer, c. d. (2000). matrix analysis and applied linear algebra (vol. 2).\nSiam. pulino, p. (2012). algebra linear e suas aplicaccoes: notas de aula.\nTrefethen, l. n., & bau iii, d. (1997). Numerical linear algebra (vol. 50).\nSiam.|demmel, j. w. (1997). applied numerical linear algebra. society for industrial and applied mathematics."
   },
@@ -137,7 +137,7 @@
     "href": "horarios.html",
     "title": "Horarios de atención",
     "section": "",
-    "text": "Los horarios de atención para el semestre 2023-1 será de lunes a viernes de 2:00 p.m. a 4:00 p.m. En dicho horario se encontrará un monitor.\nSi se desea hacer uso del laboratorio se tendrá que hacer una solicitud a través de la secretaría del Departamento de Matemáticas y Ciencias Naturales o a través del coordinador Abel Álvarez Bustos. Para dicho ingreso se necesitará el acompañamiento de un docente.\n\n\n\n\n\n\n\n\n\n\n\nHora\nLunes\nMartes\nMiercoles\nJueves\nViernes\n\n\n\n\n2:00 p.m - 4:00 p.m\nJulian Soto\nAndrés Guaca\nJuan José Ruiz\nJulian Soto\nJulian Soto"
+    "text": "Si se desea hacer uso del laboratorio se tendrá que hacer una solicitud a través de la secretaría del Departamento de Matemáticas y Ciencias Naturales o a través del coordinador Abel Álvarez Bustos. Para dicho ingreso se necesitará el acompañamiento de un docente.\n\n\n\n\n\n\n\n\n\n\n\nHora\nLunes\nMartes\nMiercoles\nJueves\nViernes\n\n\n\n\n2:00 p.m - 4:00 p.m\nJulian Soto\nAndrés Guaca\nJuan José Ruiz\nJulian Soto\nJulian Soto"
   },
   {
     "objectID": "modSimI.html",
@@ -200,14 +200,14 @@
     "href": "semilleros.html",
     "title": "Semilleros",
     "section": "",
-    "text": "Semillero de ejemplo 1\nProfesor: Nombre 1.\nContacto: 1112223334\nDescripcion: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "text": "Profesor: Nombre 1.\nContacto: 1112223334\nDescripcion: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "objectID": "avancesProyectos.html",
     "href": "avancesProyectos.html",
     "title": "Avances de proyectos",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPrueba 2\n\n\n\n\n\n\nAutor ficticio 2\n\n\nMar 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrueba 1\n\n\n\n\n\n\nAutor ficticio 1\n\n\nMar 22, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutor ficticio 2\n\n\nMar 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutor ficticio 1\n\n\nMar 22, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "introModelizacion.html",
@@ -256,14 +256,14 @@
     "href": "servicios.html#lenguajes-de-programación",
     "title": "Servicios",
     "section": "Lenguajes de programación",
-    "text": "Lenguajes de programación\n\nPython\nR\nQuarto\nJulia"
+    "text": "Lenguajes de programación\n\nPython\n\n\n\nR\n\n\n\nQuarto\n\n\n\nJulia"
   },
   {
     "objectID": "servicios.html#entornos",
     "href": "servicios.html#entornos",
     "title": "Servicios",
     "section": "Entornos",
-    "text": "Entornos\n\nAnaconda\nSpyder\nJupyter\nVisual Studio Code\n\nDejamos algunos cursos de programación gratis en algunos de los lenguajes de programación:"
+    "text": "Entornos\n\nAnaconda\n\n\n\nSpyder\n\n\n\nJupyter\n\n\n\nVisual Studio Code"
   },
   {
     "objectID": "servicios.html#cursos-de-programación-para-python",
@@ -348,5 +348,131 @@
     "title": "Modelización y simulación II",
     "section": "Capitulo 6",
     "text": "Capitulo 6\n\nMetodos para ecuaciones elípticas.\nDiscretizacion y condiciones acotas.\nPrincipio del maximo y estimaciones del error global.\nOperador splitting.\nAplicaciones reales."
+  },
+  {
+    "objectID": "noticias.html",
+    "href": "noticias.html",
+    "title": "Noticias",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "ALC.html#descripción-de-la-asignatura",
+    "href": "ALC.html#descripción-de-la-asignatura",
+    "title": "Álgebra lineal computacional",
+    "section": "Descripción de la asignatura",
+    "text": "Descripción de la asignatura\nEn la actualidad los problemas que estudia la matemática aplicada tiene un gran componente computacional, esto requiere un buen entendimiento e interpretación adecuada de los diferentes algoritmos que se usan para resolver problemas. En especial los algoritmos donde se usan muchas variables y/o iterativos para tener una apropiada interpretación de los resultados y que estos reflejen la realidad de los mismos. Es por es este motivo que este curso pretende dar algunas competencias computacionales y analíticas para el estudio del álgebra matricial computacional. En este curso se presentan los algoritmos y la teoría para resolver sistemas de ecuaciones lineales, debido a que estas están presentes en casi toda aplicación de modelos matemáticos."
+  },
+  {
+    "objectID": "analisisycomputacion.html#descripción-de-la-asignatura",
+    "href": "analisisycomputacion.html#descripción-de-la-asignatura",
+    "title": "Análisis y computación numérica",
+    "section": "Descripción de la asignatura",
+    "text": "Descripción de la asignatura\nLos métodos numéricos es una rama de las matemáticas aplicadas que se encarga de aproximar la solución de problemas complejos usando algoritmos, los cuales en su mayoría se puede implementar computacionalmente a través de lenguajes formales de programación, como phython, matlab, c++, fortran, entre otros. debido a la diversidad de los métodos numéricos existentes, en este curso, se pretende enseñar los principios fundamentales de esta rama, como lo son el análisis del error, convergencia, algoritmos iterativos y directos. para alcanzar este objetivo se pretende estudiar problemas generales fácilmente implementables en la ingeniería y rápidamente traducibles en un lenguaje de programación. adicionalmente, esperamos mostrar como los métodos numéricos, bien implementados en un lenguaje de programación, resultan un herramienta eficaz y eficiente para aproximar soluciones de problemas complejos heredados de la ingeniería y las matemáticas."
+  },
+  {
+    "objectID": "introModelizacion.html#descripción-de-la-materia",
+    "href": "introModelizacion.html#descripción-de-la-materia",
+    "title": "Introducción a la modelización",
+    "section": "Descripción de la materia",
+    "text": "Descripción de la materia\nIntroducción a la modelización es una asignatura de primer semestre de la carrera de matemáticas aplicadas, en ella se busca motivar a los estudiantes para que realicen una simplificación de algún fenómeno real, identificando las principales variables y las relaciones entre ellas Con este propósito la asignatura se ha divido en tres partes. En la primer parte se da una muy breve introducción a las ecuaciones en diferencias y sistemas dinámicos de ecuaciones en diferencias. En la segunda se presentan algunos modelos en donde sus variables están proporcionalmente relaciones, también se hacen ajustes polinomiales para los datos de un experimento. En la última parte se presenta la teoría de grafos como una herramienta descriptiva para dar una interpretación de algunos fenómenos concretos del mundo real."
+  },
+  {
+    "objectID": "modSimI.html#descripción-de-la-materia",
+    "href": "modSimI.html#descripción-de-la-materia",
+    "title": "Modelización y simulación I",
+    "section": "Descripción de la materia",
+    "text": "Descripción de la materia\nLa modelización matemática es un rama principal en las matemáticas aplicadas, este curso va dirigido a estudiantes de matemática aplicada e ingeniera y pretende dar las principales herramientas para modelizar problemas donde involucren razones de cambio. Adicionalmente, pretendemos presentar algunas herramientas numéricas, basadas en diferencias finitas, para aproximar estos sistemas, mostrando algunos principios de estabilidad. De esta manera deseamos que es estudiante adquiera la habilidad de esquematizar un problema real en un sistema de ecuaciones diferenciales ordinarias, para que posteriormente simule e interprete las aproximaciones en un contexto dado. Adquiriendo asÍ, las capacidades simular problemas reales en diferentes contextos de las ciencias y adquirir la competencia de trabajar en equipos interdisciplinares, convirtiendo las matemática aplicadas como un laboratorio del mundo real."
+  },
+  {
+    "objectID": "modSimII.html#descripción-de-la-materia",
+    "href": "modSimII.html#descripción-de-la-materia",
+    "title": "Modelización y simulación II",
+    "section": "Descripción de la materia",
+    "text": "Descripción de la materia\nLas ecuaciones diferenciales parciales son de vital importancia para modelar muchos fenómenos físicos, biológicos, epidemiológicos, entre otros. Por tal motivo se hace indispensable en un programa de matemática aplicada ver una introducción de los diferentes fenómenos que modelan este tipo de ecuaciones y algunas herramientas matemáticas para la simulación de los mismos."
+  },
+  {
+    "objectID": "ACN.html#descripción-de-la-asignatura",
+    "href": "ACN.html#descripción-de-la-asignatura",
+    "title": "Análisis y computación numérica",
+    "section": "Descripción de la asignatura",
+    "text": "Descripción de la asignatura\nLos métodos numéricos es una rama de las matemáticas aplicadas que se encarga de aproximar la solución de problemas complejos usando algoritmos, los cuales en su mayoría se puede implementar computacionalmente a través de lenguajes formales de programación, como phython, matlab, c++, fortran, entre otros. debido a la diversidad de los métodos numéricos existentes, en este curso, se pretende enseñar los principios fundamentales de esta rama, como lo son el análisis del error, convergencia, algoritmos iterativos y directos. para alcanzar este objetivo se pretende estudiar problemas generales fácilmente implementables en la ingeniería y rápidamente traducibles en un lenguaje de programación. adicionalmente, esperamos mostrar como los métodos numéricos, bien implementados en un lenguaje de programación, resultan un herramienta eficaz y eficiente para aproximar soluciones de problemas complejos heredados de la ingeniería y las matemáticas."
+  },
+  {
+    "objectID": "ACN.html#capitulo-1",
+    "href": "ACN.html#capitulo-1",
+    "title": "Análisis y computación numérica",
+    "section": "Capitulo 1",
+    "text": "Capitulo 1\n\nIntroducción a la programación con matlab.\nDefinición del error (relativo-absoluto)."
+  },
+  {
+    "objectID": "ACN.html#capitulo-2",
+    "href": "ACN.html#capitulo-2",
+    "title": "Análisis y computación numérica",
+    "section": "Capitulo 2",
+    "text": "Capitulo 2\n\nMétodo del punto fijo.\nMétodo de bisección bolsano.\nMétodo de la regla falsa.\nMétodo de la secante.\nMétodo de newton raphson\nSolución de sistemas lineales usando matlab.\nEjercicios de aplicación."
+  },
+  {
+    "objectID": "ACN.html#capitulo-3",
+    "href": "ACN.html#capitulo-3",
+    "title": "Análisis y computación numérica",
+    "section": "Capitulo 3",
+    "text": "Capitulo 3\n\nIntroducción a las normas de matrices.\nNúmero de condicionamiento.\nEliminación gausiana.\nSolución de sistemas triangular superior e inferior.\nFactorización lu-pivoteo.\nSolución de sistemas lineales con pivoteo y sin pivoteo.\nMétodos iterativos para resolver sistemas jacobi-gauss-seidel."
+  },
+  {
+    "objectID": "ACN.html#capitulo-4",
+    "href": "ACN.html#capitulo-4",
+    "title": "Análisis y computación numérica",
+    "section": "Capitulo 4",
+    "text": "Capitulo 4\n\nInterpolación de lagrange.\nDiferencias divididas de newton.\nRegresión de mínimos cuadrados.\nAjuste de curvas."
+  },
+  {
+    "objectID": "ACN.html#capitulo-5",
+    "href": "ACN.html#capitulo-5",
+    "title": "Análisis y computación numérica",
+    "section": "Capitulo 5",
+    "text": "Capitulo 5\n\nDiferenciación numérica, -\nDiferencias finitas (formulas).\nIntegración numérica, error,\nRegla del trapecio / punto medio, regla del simpson (1/3-3/8)."
+  },
+  {
+    "objectID": "ACN.html#capitulo-6",
+    "href": "ACN.html#capitulo-6",
+    "title": "Análisis y computación numérica",
+    "section": "Capitulo 6",
+    "text": "Capitulo 6\n\nDefinición de la transformada de fourier.\nTransformada discreta de fourier.\nTfd, propiedades de tfd (linealidad, desplazamiento en tiempo y frecuencia)\nTransformada rápida de fourier trf.\nTransformada del coseno.\nTransformada de hadamard-hartley.\nTransformada wavelets."
+  },
+  {
+    "objectID": "ACN.html",
+    "href": "ACN.html",
+    "title": "Análisis y computación numérica",
+    "section": "",
+    "text": "Los métodos numéricos es una rama de las matemáticas aplicadas que se encarga de aproximar la solución de problemas complejos usando algoritmos, los cuales en su mayoría se puede implementar computacionalmente a través de lenguajes formales de programación, como phython, matlab, c++, fortran, entre otros. debido a la diversidad de los métodos numéricos existentes, en este curso, se pretende enseñar los principios fundamentales de esta rama, como lo son el análisis del error, convergencia, algoritmos iterativos y directos. para alcanzar este objetivo se pretende estudiar problemas generales fácilmente implementables en la ingeniería y rápidamente traducibles en un lenguaje de programación. adicionalmente, esperamos mostrar como los métodos numéricos, bien implementados en un lenguaje de programación, resultan un herramienta eficaz y eficiente para aproximar soluciones de problemas complejos heredados de la ingeniería y las matemáticas."
+  },
+  {
+    "objectID": "links/python.html",
+    "href": "links/python.html",
+    "title": "Links para Python",
+    "section": "",
+    "text": "Curso en español de Codecademy: codecademy.com/learn/learn-python\nCurso de para principiantes en Coursera: coursera.org/learn/python\nCurso de Google para principiantes: developers.google.com/edu/python\n\nCursos de las librerías mas utilizadas en Python:\n\nCurso de NumPy de DataCamp: datacamp.com/courses/intro-to-python-for-data-science\nCurso de NumPy y Pandas en español de Platzi: platzi.com/cursos/data-python/\nCurso de Matplotlib en español de Coursera: coursera.org/learn/python-plotting"
+  },
+  {
+    "objectID": "links/r.html",
+    "href": "links/r.html",
+    "title": "Links para R",
+    "section": "",
+    "text": "Curso en español de Coursera: coursera.org/learn/r-programming\nCurso básico de DataCamp: datacamp.com/courses/free-introduction-to-r"
+  },
+  {
+    "objectID": "links/julia.html",
+    "href": "links/julia.html",
+    "title": "Links para Julia",
+    "section": "",
+    "text": "Curso Introducción en DataCamp: datacamp.com/courses/introduction-to-julia\nCurso de Codecademy: codecademy.com/learn/learn-julia"
+  },
+  {
+    "objectID": "links/quarto.html",
+    "href": "links/quarto.html",
+    "title": "Links para Quarto",
+    "section": "",
+    "text": "Página oficial de Quarto: quarto.org"
   }
 ]

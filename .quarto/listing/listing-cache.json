@@ -1,0 +1,10 @@
+{
+  "listingMap": {
+    "noticias.qmd": [
+      "noticias/*/index.qmd"
+    ],
+    "avancesProyectos.qmd": [
+      "postsProy/*/index.qmd"
+    ]
+  }
+}

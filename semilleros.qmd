@@ -4,6 +4,8 @@ title: "Semilleros"
 
 # Semillero de ejemplo 1
 
+![](images/semilleros1.png){width="500"}
+
 **Profesor:** Nombre 1.
 
 **Contacto:** 1112223334

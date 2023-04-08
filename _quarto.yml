@@ -19,7 +19,7 @@ website:
       - section: "Asignaturas"
         contents:
           - introModelizacion.qmd
-          - analisisycomputacion.qmd
+          - ACN.qmd
           - ALC.qmd
           - modSimI.qmd
           - modSimII.qmd

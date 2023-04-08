@@ -1,8 +1,10 @@
 ---
-title: "Algebra lineal computacional"
+title: "Álgebra lineal computacional"
 ---
 ## Descripción de la asignatura
 En la actualidad los problemas que estudia la matemática aplicada tiene un gran componente computacional, esto requiere un buen entendimiento e interpretación adecuada de los diferentes algoritmos que se usan para resolver problemas. En especial los algoritmos donde se usan muchas variables y/o iterativos para tener una apropiada interpretación de los resultados y que estos reflejen la realidad de los mismos. Es por es este motivo que este curso pretende dar algunas competencias computacionales y analíticas para el estudio del álgebra matricial computacional. En este curso se presentan los algoritmos y la teoría para resolver sistemas de ecuaciones lineales, debido a que estas están presentes en casi toda aplicación de modelos matemáticos.
+
+![](images/ALC.png){width="500"}
 
 ## Capitulo 1
 -   Espacios con producto interno. 
