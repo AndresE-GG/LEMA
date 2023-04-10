@@ -7,38 +7,16 @@ Estos son los programas y lenguajes que estarán disponibles en el laboratorio:
 ## Lenguajes de programación
 - Python
 
-<!-- <img src="images/logoPython.svg" alt="" width="300" height="100"> -->
-
-
 - R
-
-<!-- <img src="images/logoR.jpg" alt="" width="100" height="100"> -->
-
 
 - Quarto
 
-<!-- <img src="images/logoQuarto.png" alt="" width="300" height="100"> -->
-
-
 - Julia
 
-<!-- <img src="images/logoJulia.png" alt="" width="300" height="100"> -->
-
-
-## Entornos
 - Anaconda
-
-<!-- <img src="images/logoAnaconda.webp" alt="" width="300" height="100"> -->
 
 - Spyder
 
-<!-- <img src="images/logoSpyder.png" alt="" width="300" height="100"> -->
-
-
 - Jupyter
 
-<!-- <img src="images/logoJupyter.png" alt="" width="200" height="100"> -->
-
 - Visual Studio Code
-
-<!-- <img src="images/logoVisual.png" alt="" width="100" height="100"> -->

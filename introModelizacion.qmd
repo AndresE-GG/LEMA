@@ -1,9 +1,8 @@
 ---
 title: "Introducción a la modelización"
 ---
-
-
 ## Descripción de la materia
+
 Introducción a la modelización es una asignatura de primer semestre de la carrera de matemáticas aplicadas, en ella se busca motivar a los estudiantes para que realicen una simplificación de algún fenómeno real, identificando las principales variables y las relaciones entre ellas Con este propósito la asignatura se ha divido en tres partes. En la primer parte se da una muy breve introducción a las ecuaciones en diferencias y sistemas dinámicos de ecuaciones en diferencias. En la segunda se presentan algunos modelos en donde sus variables están proporcionalmente relaciones, también se hacen ajustes polinomiales para los datos de un experimento. En la última parte se presenta la teoría de grafos como una herramienta descriptiva para dar una interpretación de algunos fenómenos concretos del mundo real.
 
 ![](images/introModelizacion.png){width="500"}
@@ -29,7 +28,7 @@ Introducción a la modelización es una asignatura de primer semestre de la carr
     - Usando modelos de grafos para solucionar problemas
 
 ## Bibliografía
-- giordano, f., fox, w. p., & horton, s. (2013). a first course in mathematical modeling. nelson education.
-- apostol, t. m. (2007). calculus, volume i (vol. 1). john wiley & sons.
-- notas de clase.
+- Giordano, F., Fox, W. P., & Horton, S. (2013). A first course in mathematical modeling. Nelson Education.
+- Apostol, T. M. (2007). Calculus, volume I (vol. 1). John Wiley & Sons.
+- Notas de clase.
 

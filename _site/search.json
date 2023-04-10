@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "¿Quienes somos?",
     "section": "",
-    "text": "Objetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas.\n\n\n\n\nStaff:\n\nMonitores:\n\nJulián Soto\nJuan José Ruíz\nAndrés Guaca"
+    "text": "El Laboratorio de Estadística y Matemáticas Aplicadas (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la Pontificia Universidad Javeriana Cali en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.\n\n\nObjetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas.\n\n\n\n\nStaff:\n\nMonitores:\n\nJulián Soto\nJuan José Ruíz\nAndrés Guaca"
   },
   {
     "objectID": "analisisycomputacion.html",
@@ -116,7 +116,7 @@
     "href": "ALC.html#bibiolografías",
     "title": "Álgebra lineal computacional",
     "section": "Bibiolografías",
-    "text": "Bibiolografías\n\nMeyer, c. d. (2000). matrix analysis and applied linear algebra (vol. 2).\nSiam. pulino, p. (2012). algebra linear e suas aplicaccoes: notas de aula.\nTrefethen, l. n., & bau iii, d. (1997). Numerical linear algebra (vol. 50).\nSiam.|demmel, j. w. (1997). applied numerical linear algebra. society for industrial and applied mathematics."
+    "text": "Bibiolografías\n\nMeyer, C. D. (2000). Matrix analysis and applied linear algebra (vol. 2).\nSiam. Pulino, P. (2012). Algebra linear e suas aplicaccoes: notas de aula.\nTrefethen, L. N., & Bau III, D. (1997). Numerical linear algebra (vol. 50).\nSiam. Demmel, J. W. (1997). Applied numerical linear algebra. society for industrial and applied mathematics."
   },
   {
     "objectID": "postsProy/post2/index.html",
@@ -242,7 +242,7 @@
     "href": "introModelizacion.html#bibliografía",
     "title": "Introducción a la modelización",
     "section": "Bibliografía",
-    "text": "Bibliografía\n\ngiordano, f., fox, w. p., & horton, s. (2013). a first course in mathematical modeling. nelson education.\napostol, t. m. (2007). calculus, volume i (vol. 1). john wiley & sons.\nnotas de clase."
+    "text": "Bibliografía\n\nGiordano, F., Fox, W. P., & Horton, S. (2013). A first course in mathematical modeling. Nelson Education.\nApostol, T. M. (2007). Calculus, volume I (vol. 1). John Wiley & Sons.\nNotas de clase."
   },
   {
     "objectID": "servicios.html",
@@ -256,7 +256,7 @@
     "href": "servicios.html#lenguajes-de-programación",
     "title": "Servicios",
     "section": "Lenguajes de programación",
-    "text": "Lenguajes de programación\n\nPython\n\n\n\nR\n\n\n\nQuarto\n\n\n\nJulia"
+    "text": "Lenguajes de programación\n\nPython\nR\nQuarto\nJulia\nAnaconda\nSpyder\nJupyter\nVisual Studio Code"
   },
   {
     "objectID": "servicios.html#entornos",
@@ -394,7 +394,7 @@
   {
     "objectID": "ACN.html#descripción-de-la-asignatura",
     "href": "ACN.html#descripción-de-la-asignatura",
-    "title": "Análisis y computación numérica",
+    "title": "Laboratorio de estadística y matemáticas aplicadas",
     "section": "Descripción de la asignatura",
     "text": "Descripción de la asignatura\nLos métodos numéricos es una rama de las matemáticas aplicadas que se encarga de aproximar la solución de problemas complejos usando algoritmos, los cuales en su mayoría se puede implementar computacionalmente a través de lenguajes formales de programación, como phython, matlab, c++, fortran, entre otros. debido a la diversidad de los métodos numéricos existentes, en este curso, se pretende enseñar los principios fundamentales de esta rama, como lo son el análisis del error, convergencia, algoritmos iterativos y directos. para alcanzar este objetivo se pretende estudiar problemas generales fácilmente implementables en la ingeniería y rápidamente traducibles en un lenguaje de programación. adicionalmente, esperamos mostrar como los métodos numéricos, bien implementados en un lenguaje de programación, resultan un herramienta eficaz y eficiente para aproximar soluciones de problemas complejos heredados de la ingeniería y las matemáticas."
   },

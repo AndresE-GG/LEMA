@@ -1,4 +1,3 @@
-
 ---
 title: "Análisis y computación numérica"
 ---
@@ -53,12 +52,8 @@ Los métodos numéricos es una rama de las matemáticas aplicadas que se encarga
 
 # Referencias del curso
 
-- Métodos numéricos con matlab, john h. mathews. prentice hall.
-
-- Métodos numéricos para ingenieros (2007), steven chapra y raymond canale. mc graw hill, quinta edición.
-
-- Análisis numérico. jorge figueroa. pontificia universidad javeriana cali (2001).
-
-- Análisis numérico, (2002). séptima edición. richard burden y j. douglas faires. thomson editores.
-
-- Matemáticas avanzadas para ingeniería. segunda edición (2002). glyn james. prentice hall.
+- Métodos numéricos con matlab, John H. Mathews. Prentice Hall.
+- Métodos numéricos para ingenieros (2007), Steven Chapra y Raymond Canale. Mc Graw Hill, quinta edición.
+- Análisis numérico. Jorge Figueroa. Pontificia universidad Javeriana Cali (2001).
+- Análisis numérico, (2002). séptima edición. Richard Burden y J. Douglas Faires. Thomson editores.
+- Matemáticas avanzadas para ingeniería. segunda edición (2002). Glyn James. Prentice hall.
