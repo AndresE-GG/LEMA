@@ -6,6 +6,7 @@ title: "Modelización y simulación I"
 La modelización matemática es un rama principal en las matemáticas aplicadas, este curso va dirigido a estudiantes de matemática aplicada e ingeniera y pretende dar las principales herramientas para modelizar problemas donde involucren razones de cambio. Adicionalmente, pretendemos presentar algunas herramientas numéricas, basadas en diferencias finitas, para aproximar estos sistemas, mostrando algunos principios de estabilidad. De esta manera deseamos que es estudiante adquiera la habilidad de esquematizar un problema real en un sistema de ecuaciones diferenciales ordinarias, para que posteriormente simule e interprete las aproximaciones en un contexto dado. Adquiriendo asÍ, las capacidades simular problemas reales en diferentes contextos de las ciencias y adquirir la competencia de trabajar en equipos interdisciplinares, convirtiendo las matemática aplicadas como un laboratorio del mundo real.
 
 ![](images/modSimI){width="500"}
+<Agregar otra imagen>
 
 ## Capitulo 1 
 -   Introducción al modelización.

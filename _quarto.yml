@@ -16,7 +16,7 @@ website:
         contents:
           - servicios.qmd
           - horarios.qmd
-      - section: "Asignaturas"
+      - section: "Asignaturas" #Agregar página principal, introducción general "asignaturas que se benefician del laboratorio".
         contents:
           - introModelizacion.qmd
           - ACN.qmd

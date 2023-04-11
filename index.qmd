@@ -7,7 +7,7 @@ El Laboratorio de Estadística y [Matemáticas Aplicadas](https://www.javerianac
 ![](images/quienesSomos1.png){width="600"}
 
 # Objetivo general
-- Fomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.
+- Fomentar el aprendizaje y la investigación de la comunidad de la Pontificia Universidad Javeriana Cali en las áreas de computación científica, matemáticas computacionales y estadística.
 
 # Objetivos específicos
 
@@ -16,6 +16,8 @@ El Laboratorio de Estadística y [Matemáticas Aplicadas](https://www.javerianac
 - Brindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.
 
 - Proporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas.
+
+<Arreglar objetivos>
 
 ![](images/quienesSomos2.png){width="500"}
 
