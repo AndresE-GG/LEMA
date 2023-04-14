@@ -14,9 +14,16 @@ website:
       - index.qmd
       - section: 'Información general'
         contents:
-          - services.qmd
+          - servicios.qmd
           - horarios.qmd
           - linksasig.qmd
+      - section: "Asignaturas" #Agregar página principal, introducción general "asignaturas que se benefician del laboratorio".
+        contents:
+          - introModelizacion.qmd
+          - ACN.qmd
+          - ALC.qmd
+          - modSimI.qmd
+          - modSimII.qmd
       - section: 'Links de interés' 
         contents:
         - links/python.qmd

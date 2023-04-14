@@ -1,0 +1,4 @@
+---
+title: "Spyder"
+image: featured.png
+---

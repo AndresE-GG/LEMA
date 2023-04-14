@@ -1,0 +1,8 @@
+---
+title: "R-studio"
+image: featured.png
+---
+Pagina oficial de R: [rstudio.com](https://www.rstudio.com/)
+
+- Curso en español de Coursera: [coursera.org/learn/r-programming](https://www.coursera.org/learn/r-programming)
+- Curso básico de DataCamp: [datacamp.com/courses/free-introduction-to-r](https://www.datacamp.com/courses/free-introduction-to-r)

@@ -1,0 +1,14 @@
+---
+title: 'Programas instalados en el laboratorio'
+listing:
+  contents: "imagelen/*/index.qmd"
+  feed: true
+  sort: "date desc"
+  type: grid
+  sort-ui: false
+  filter-ui: false
+  image-placeholder: images/image-placeholder.png
+  fields: [image, title]
+page-layout: article
+title-block-banner: true
+---

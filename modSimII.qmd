@@ -5,7 +5,7 @@ title: "Modelización y simulación II"
 ## Descripción de la materia
 Las ecuaciones diferenciales parciales son de vital importancia para modelar muchos fenómenos físicos, biológicos, epidemiológicos, entre otros. Por tal motivo se hace indispensable en un programa de matemática aplicada ver una introducción de los diferentes fenómenos que modelan este tipo de ecuaciones y algunas herramientas matemáticas para la simulación de los mismos.
 
-![](images/modSimII.gif){width="500"}
+![](images/modsim2.jpeg){width="500"}
 
 ## Capitulo 1 
 - Ecuaciones de primer orden.

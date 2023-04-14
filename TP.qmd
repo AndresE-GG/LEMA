@@ -1,0 +1,30 @@
+---
+title: "Teoria de probabilidades"
+---
+## Descripción de la asignatura
+El curso promueve el pensamiento estadístico mediante el conocimiento de métodos actuales y frecuentemente  utilizados  en  el  análisis  de  datos,  a  través  de  la  observación  de  situaciones problemáticas propio de su quehacer profesional, facilitando la toma de decisiones con base en la evidencia. Esto facilita el abordaje de conceptos de estadística descriptiva, variable aleatoria, su caracterización y el cálculo de probabilidades, tomando sus bases como herramienta útil en la toma de decisiones para contar con mayor seguridad en la propuesta de soluciones. Se propone el desarrollo de un proyecto que desarrolle competencias para el análisis de la información, la organización  y  comunicación.  Dicha  actividad  involucra  problemas  que  requieren  manejo  de bases de datos, tópicos estadísticos y herramienta computacional
+
+## Capitulo 1
+-   Clasificación de los datos, escalas de medición.
+-   Tablas de frecuencia univariada.
+-   Tablas de frecuencia bivariado, frecuencia conjunta, marginal y condicional. 
+-   Representación gráfica univariada y bivariada: Histogramas, gráfico de barras, Ojivas. 
+-   Indicadores estadísticos: Centro, dispersión, posición y forma.
+-   Diagrama de caja y alambres, diagrama de tallo y hojas.
+
+## Capitulo 2
+-   Introducción de la probabilidad, experimentos, espacio muestral y eventos.
+-   Axiomas de probabilidad.
+-   Probabilidad de eventos simples, compuestos, condicionados y propiedades.
+-   Teorema de Bayes
+
+## Capitulo 3
+-   Variable aleatoria Discreta, función de probabilidad, función de distribución, valor esperado y varianza.
+-   Variable aleatoria continua, función de  densidad, función de  distribución, valor esperado y varianza.
+-   Distribución   de   probabilidad   conjunta   en   variables   discretas   y   continuas:   covarianza, coeficiente de correlación lineal.
+-   Media y varianza de la combinación lineal entre variables aleatorias.
+
+## Capitulo 4
+-   Distribuciones discretas: Uniforme, Bernoulli, Binomial, Hipergeométrico, Poisson.
+-   Distribuciones continuas de probabilidad: Uniforme, Normal,Gamma, Exponencial y Weibull.
+-   Aplicaciones de los modelos discretos y continuos.

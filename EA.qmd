@@ -1,0 +1,40 @@
+---
+title: "Estadistica aplicada"
+---
+## Descripción de la asignatura
+El objetivo principal de este curso es que el estudiante conozca el ciclo completo de los datos,
+a través de métodos estadísticos que se emplean en el análisis de datos, haciendo uso de
+ejemplos y situaciones actuales en su quehacer profesional, que permiten la toma de decisiones
+informadas.
+En el curso se abordan los fundamentos teóricos y computacionales de la inferencia estadística
+usando estimación puntual, intervalos de confianza y pruebas de hipótesis como también la
+estimación de valores de una variable de respuesta y de valores futuros con el modelo de
+regresión lineal simple y el análisis de varianza para la comparación de media en un diseño de
+experimentos.
+
+## Capitulo 1
+-   Introducción al muestreo y tipos de muestreo.
+-   Estimador puntual y sus propiedades.
+-   Valor esperado y varianza de la media muestral y de la proporción muestral.
+-   Distribución de la media muestral y de la proporción muestral: Teorema del límite central.
+-   Distribución de la diferencia de medias muestral y de la diferencia de proporciones muestrales.
+-   Distribución de la varianza muestral y del cociente de varianzas.
+
+## Capitulo 2
+-   Límites de confianza, nivel de confianza, error de estimación.
+-   Intervalo de confianza para la estimación de la media.
+-   Intervalo de confianza para la estimación de la proporción y varianza en una población.
+-   Tamaño de muestra para la estimar la media y la proporción por intervalo de confianza.
+-   Comparación de dos poblaciones a partir de sus medias, proporciones y varianzas usando intervalos de confianza.
+
+## Capitulo 3
+-   Introducción a la prueba de hipótesis: Hipótesis nula y alternativa, nivel de significancia, errores tipo I y tipo II, potencia.
+-   Prueba de hipótesis para el parámetro de una población: media, proporción y varianza. Valor p en la toma de decisiones.
+-   Prueba de hipótesis de dos poblaciones.
+-   Prueba Chi cuadrado para homogeneidad y pruebas de bondad de ajuste.
+-   Pruebas no paramétricas.
+
+## Capitulo 4
+-   Introducción a la regresión lineal, análisis de correlación lineal. Supuestos en la regresión.
+-   Modelo de regresión lineal simple: Estimación por mínimos cuadrados, análisis de varianza, validación de supuestos,
+-   Introducción al Modelo de Regresión Lineal múltiple: Variables categóricas, Regresión logística.

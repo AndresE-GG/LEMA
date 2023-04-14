@@ -7,7 +7,7 @@ Estos son los programas y lenguajes que estarán disponibles en el laboratorio:
 ## Lenguajes de programación
 - Python
 
-- R
+- R 
 
 - Quarto
 

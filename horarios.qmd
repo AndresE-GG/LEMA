@@ -10,4 +10,4 @@ Si se desea hacer uso del laboratorio para estudiantes de matemáticas, biologí
 |--------------|-----------|-----------|-----------|-----------|-----------|
 |2:00 p.m - 4:00 p.m|Julian Soto |Andrés Guaca |Juan José Ruiz |Julian Soto |Julian Soto |
 
-<Foto del laboratorio>
+![](images/horariodeatencion.jpeg){width="500"}

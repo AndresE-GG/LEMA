@@ -1,0 +1,20 @@
+---
+title: 'Asignaturas que se benefician del laboratorio'
+---
+En LEMA, se ha dispuesto que los monitores de las asignaturas del Departamento de Matemáticas y Ciencias Naturales estarán disponibles para resolver las dudas de los estudiantes que tengan respecto a los temas abordados asignaturas del área de métodos numéricos, modelización y estadística. Esta iniciativa busca brindar un apoyo adicional a los estudiantes en su proceso de aprendizaje y fomentar un ambiente de colaboración y trabajo en equipo.
+Los monitores, quienes son estudiantes, estarán disponibles durante los horarios establecidos para cada asignatura en el laboratorio. Los estudiantes pueden acudir a ellos para aclarar dudas, recibir explicaciones adicionales sobre los temas vistos en clase o recibir apoyo para resolver ejercicios o problemas específicos.
+A continuación, se presenta la lista de asignaturas en las cuales los monitores podrán brindar asesoría.
+
+- [Introducción a la modelización.](introModelizacion.qmd)
+
+- [Análisis y computación numérica.](ACN.qmd)
+
+- [Álgebra lineal computacional.](ALC.qmd)
+
+- [Modelización y simulación I.](modSimI.qmd)
+
+- [Modelización y simulación II.](modSimII.qmd)
+
+- [Teoria de probabilidades.](TP.qmd)
+
+- [Estadística aplicada.](EA.qmd)
