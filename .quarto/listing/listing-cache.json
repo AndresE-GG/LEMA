@@ -5,6 +5,9 @@
     ],
     "avancesProyectos.qmd": [
       "postsProy/*/index.qmd"
+    ],
+    "services.qmd": [
+      "imagelen/*/index.qmd"
     ]
   }
 }

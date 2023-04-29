@@ -9,5 +9,18 @@
   {
     "listing": "/noticias.html",
     "items": []
+  },
+  {
+    "listing": "/services.html",
+    "items": [
+      "/imagelen/Anaconda/index.html",
+      "/imagelen/Julia/index.html",
+      "/imagelen/Jupyter/index.html",
+      "/imagelen/Quarto/index.html",
+      "/imagelen/R-studio/index.html",
+      "/imagelen/Spyder/index.html",
+      "/imagelen/Visual Studio Code/index.html",
+      "/imagelen/python/index.html"
+    ]
   }
 ]
